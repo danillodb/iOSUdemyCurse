@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "WeatherManager.parseCityData(data:):WeatherManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "WeatherViewController.didUpdateWeather(_:):WeatherViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "weather.weather[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
